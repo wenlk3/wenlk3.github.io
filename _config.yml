@@ -22,7 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lekang Wen"
-  avatar           : "images/wlk.jpg"
+  #avatar           : "images/wlk.jpg"
+  avatar           : "images/fafa.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
