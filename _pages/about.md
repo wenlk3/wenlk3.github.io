@@ -33,6 +33,9 @@ redirect_from:
 **Lekang Wen**, Jing Xiao\*, Liang Liao, Jiajun Chen, Mi Wang (\* corresponding author) 
 
 The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+**TLDR:** Modality-agnostic semantic segmentation addressing how explicit alignment methods enforce feature homogenization that destroys modality complementarity, by proposing collaborative harmonization through mutual perception units and dual-path optimization strategies that enable implicit alignment while actively preserving and reinforcing modality-specific strengths.
+
 </div>
 </div>
 
@@ -43,7 +46,10 @@ The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 **Lekang Wen**, Liang Liao, Jing Xiao\*, Mi Wang (\* corresponding author) 
 
-IEEE Transaction on Geoscience and Remote Sensing(**TGRS**), 2026.
+IEEE Transaction on Geoscience and Remote Sensing (**TGRS**), 2026.
+
+**TLDR:** Incomplete multimodal semantic segmentation for remote sensing addressing modality imbalance, substantial intraclass variation, and strong cross-modal heterogeneity, by introducing semantic-guided fusion that extracts classwise prototypes for adaptive weighting and modality-aware sampling that dynamically prioritizes fragile modalities through robustness-guided training.
+
 </div>
 </div>
 
@@ -56,7 +62,10 @@ IEEE Transaction on Geoscience and Remote Sensing(**TGRS**), 2026.
 
 **Lekang Wen**, Yingdong Pi\*, Qiyan Luo, Jie Yang, Mi Wang (\* corresponding author) 
 
-ISPRS Journal of Photogrammetry and Remote Sensing(**ISPRS**), 2026.
+ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2026.
+
+**TLDR:** Satellite semantic 3D reconstruction addressing view-centric methods' error accumulation from sequential orthorectification and fusion steps, by transforming to orthographic warping for direct end-to-end DSM and LCM generation with explicit spatial and vertical consistency constraints that enforce bidirectional height-semantic coupling.
+
 </div>
 </div>
 
