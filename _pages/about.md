@@ -57,7 +57,7 @@ IEEE Transaction on Geoscience and Remote Sensing (**TGRS**), 2026.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Semantic 3D Reconstruction</div><img src='images/isprs_2026_uniortho.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[UniOrtho: From View-centric to Unified Orthographic Framework for Satellite Semantic 3D Reconstruction](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
+[UniOrtho: From View-centric to Unified Orthographic Framework for Satellite Semantic 3D Reconstruction](https://www.sciencedirect.com/science/article/pii/S092427162600345X)
 
 **Lekang Wen**, Yingdong Pi\*, Qiyan Luo, Jie Yang, Mi Wang (\* corresponding author) 
 
