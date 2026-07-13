@@ -34,7 +34,7 @@ redirect_from:
 
 The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
-**TLDR:** Modality-agnostic semantic segmentation aims to achieve robust scene understanding across incomplete modality configurations. However, explicit feature alignment methods cause modal homogenization that suppresses modality-specific characteristics. CHARM enables implicit content alignment and individual enhancement through mutual perception units and dual-path optimization.
+**TL;DR:** Modality-agnostic semantic segmentation aims to achieve robust scene understanding across incomplete modality configurations. However, explicit feature alignment methods cause modal homogenization that suppresses modality-specific characteristics. CHARM enables implicit content alignment and individual enhancement through mutual perception units and dual-path optimization.
 
 </div>
 </div>
@@ -48,7 +48,7 @@ The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 IEEE Transaction on Geoscience and Remote Sensing (**TGRS**), 2026.
 
-**TLDR:** Incomplete multimodal semantic segmentation for remote sensing integrates diverse sensors but frequently encounters missing input data. Conventional methods struggle with severe modality imbalance, massive intraclass variation, and cross-modal heterogeneity. SGMA incorporates semantic-guided fusion via classwise prototypes and modality-aware sampling to prioritize fragile modalities dynamically.
+**TL;DR:** Incomplete multimodal semantic segmentation for remote sensing integrates diverse sensors but frequently encounters missing input data. Conventional methods struggle with severe modality imbalance, massive intraclass variation, and cross-modal heterogeneity. SGMA incorporates semantic-guided fusion via classwise prototypes and modality-aware sampling to prioritize fragile modalities dynamically.
 
 </div>
 </div>
@@ -63,7 +63,7 @@ IEEE Transaction on Geoscience and Remote Sensing (**TGRS**), 2026.
 
 ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2026.
 
-**TLDR:** Satellite semantic 3D reconstruction unifies surface geometry and land classification from multi-view imagery. However, view-centric methods cause severe error accumulation and exhibit weak height-semantic coupling. UniOrtho introduces direct orthographic warping guided by explicit spatial and vertical consistency constraints.
+**TL;DR:** Satellite semantic 3D reconstruction unifies surface geometry and land classification from multi-view imagery. However, view-centric methods cause severe error accumulation and exhibit weak height-semantic coupling. UniOrtho introduces direct orthographic warping guided by explicit spatial and vertical consistency constraints.
 
 </div>
 </div>
